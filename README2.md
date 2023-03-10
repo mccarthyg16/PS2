@@ -1,2 +1,2 @@
 # PS2
-For this project, Gavin and I (Jake) worked together to create this code. We got some help from Brandon and Anthony with some of the code in the Parser.jl file. Kayla also helped Gavin with the Factory.jl file. Finally, Professor Varner helped Gavin with his Include.jl file. 
+For this project, Gavin (gm548) and I (Jake, jmp476) worked together to create the recursive function. We got some debugging/help from Brandon and Anthony with some of the code in the Parser.jl file. Kayla also helped Gavin with the Factory.jl file. Finally, Professor Varner helped Gavin with his Include.jl file. The data2 folder was edited so that all the values had numbers after them (for example, Sulfur "S" would be changed to "S1"). 
